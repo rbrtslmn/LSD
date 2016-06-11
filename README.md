@@ -1,0 +1,2 @@
+# LSD
+LED Stripe Daemon
